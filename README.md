@@ -1,4 +1,4 @@
-MEMBUAT PROGRAM SEDERHANA DENGAN INPUT 3 BUAH BILANGAN 
+                                MEMBUAT PROGRAM SEDERHANA DENGAN INPUT 3 BUAH BILANGAN 
 
 INI CODINGNYA
 
@@ -9,5 +9,5 @@ Nilai indeks mahasiswa di tentukan dari skor nilai akhir yang di peroleh mahasis
 Nilai tugas sebesar 15% Nilai UTS sebesar 35% Nilai UAS sebesar 50% <p>
 
 
-FLOWCHART
+FLOWCHART <P>
 ![gambar 1](screenshot/ss2.jpg)
